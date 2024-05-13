@@ -12,6 +12,9 @@ This project is part of the Advanced Programming Course (Spring 2024). It's a si
 - **Clear**: Clear the input field.
 - **Delete**: Delete the last digit entered.
 
+![Calculator](https://github.com/m3hdi2gh/Calculator/assets/152195372/c68e6103-27c2-4637-9a9f-51aaf341b63f)
+
+
 ## Code Structure :file_folder:
 
 The application is a single class `Calculator` that handles all the operations.
